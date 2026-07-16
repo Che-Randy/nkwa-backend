@@ -6,7 +6,7 @@ Internship Assessment). Built with **Express.js** + **SQLite**.
 - 📄 Requirements spec: [`docs/requirements-spec.md`](docs/requirements-spec.md)
 - 🗺️ Data model / ERD: [`docs/erd.md`](docs/erd.md)
 - 📑 Live interactive API docs: `/api-docs` (Swagger UI, once running)
-- 🌐 Live deployed API: **`<PASTE YOUR RENDER/RAILWAY URL HERE>`**
+- 🌐 Live deployed API: **https://nkwa-backend.onrender.com**
 
 ## Tech stack
 
